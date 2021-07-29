@@ -99,7 +99,7 @@
         android:layout_below="@id/getnewusername"
         android:id="@+id/updateprofilebutton"
         android:layout_marginTop="30dp"
-        android:background="#25d366"
+        android:background="#3CDBC0"
         android:text="Update Profile"
         android:textColor="@color/white">
     </android.widget.Button>

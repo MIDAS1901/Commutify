@@ -45,4 +45,5 @@ dependencies {
     implementation 'com.hbb20:ccp:2.5.1'
     implementation 'com.squareup.picasso:picasso:2.71828'
     implementation 'com.firebaseui:firebase-ui-firestore:7.2.0'
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.22'
 }

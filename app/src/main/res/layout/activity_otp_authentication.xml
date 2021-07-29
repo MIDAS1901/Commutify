@@ -67,7 +67,7 @@
         android:paddingLeft="40dp"
         android:layout_marginTop="50dp"
         android:paddingRight="40dp"
-        android:background="#25d366">
+        android:background="#3CDBC0">
     </android.widget.Button>
 
     <ProgressBar

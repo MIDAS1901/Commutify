@@ -7,12 +7,12 @@
     android:background="@color/white"
     tools:context=".splashscreen">
 
-    <ImageView
-        android:layout_width="250dp"
-        android:layout_height="250dp"
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="400dp"
+        android:layout_height="400dp"
         android:layout_centerInParent="true"
-        android:src="@drawable/commutifylogo">
-    </ImageView>
+        android:src="@drawable/logo">
+    </pl.droidsonroids.gif.GifImageView>
 
     <TextView
         android:layout_width="wrap_content"
@@ -35,7 +35,7 @@
         android:id="@+id/maintext"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="30dp"
-        android:textColor="#25d366">
+        android:textColor="#3CDBC0">
     </TextView>
 
 </RelativeLayout>

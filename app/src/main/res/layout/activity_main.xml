@@ -78,7 +78,7 @@
         android:text="Send OTP"
         android:textSize="15sp"
         android:paddingRight="40dp"
-        android:background="#25d366">
+        android:background="#3CDBC0">
     </android.widget.Button>
 
     <ProgressBar

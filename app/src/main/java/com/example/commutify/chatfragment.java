@@ -75,7 +75,6 @@ public class chatfragment extends Fragment {
                         startActivity(intent);
                     }
                 });
-
             }
 
             @NonNull
