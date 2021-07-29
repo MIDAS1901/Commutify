@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122754136219",
+    "project_id": "commutify-ece4f",
+    "storage_bucket": "commutify-ece4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122754136219:android:d1b38a97776f10cade2e3e",
+        "android_client_info": {
+          "package_name": "com.example.commutify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122754136219-520uehfe8vrcs099fo4cuff0seogj96u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.commutify",
+            "certificate_hash": "a2bb25bd8145ce1263e2cc5c18523bc10c7abd36"
+          }
+        },
+        {
+          "client_id": "122754136219-l4qcp80piq7qb9miu305r3do2peabapn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAff5HqJ-VPOn9FDUGc_yP9wc_s4TaoSV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122754136219-l4qcp80piq7qb9miu305r3do2peabapn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
