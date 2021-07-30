@@ -20,8 +20,23 @@ The application is entirely created using XML, Java and Firebase. The project us
 
 ## Preview
 
-![image](https://user-images.githubusercontent.com/62807226/105393870-e389fc00-5c42-11eb-82fc-7466c00f08b2.png)
+### -> Signup Screen and OTP Verification
 
+![login](https://user-images.githubusercontent.com/62807226/127671530-41b0bfd1-6805-40fc-8950-084b026517e5.gif)
+
+
+### -> Realtime chat between two users
+
+
+![user 1's screen](https://user-images.githubusercontent.com/62807226/127674321-1c55537a-2174-43ec-ae45-36cb89d095ec.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![user 2's screen](https://user-images.githubusercontent.com/62807226/127674343-f04cd600-b912-4fda-afda-8116b39b3ba6.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*User 1's Screen*&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*User 2's Screen*
+
+
+## Download
+If you wanna try it out for yourself you can click on the hyperlink link below and download the apk.
+
+[Commutify.apk](https://drive.google.com/file/d/1L_uYEKqGuAj6ggRw0P4il8YrX_J2P2VW/view?usp=sharing)
 
 ## Minimum SDK
   
